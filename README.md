@@ -9,6 +9,4 @@
 # change4
 # change5
 
-# merge change 1
-# merge change 2
-# merge change 3
+##　ｔｒｙ　ａｇａｉｎ
