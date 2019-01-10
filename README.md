@@ -6,8 +6,5 @@
 
 # change3
 
-<<<<<<< HEAD
 # change4
-=======
 # change5
->>>>>>> master
