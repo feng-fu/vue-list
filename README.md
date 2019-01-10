@@ -20,11 +20,9 @@
 
 # 12123123
 # sdferqwsdf
->>>>>>> pull request
 # merge change 1
 # merge change 2
 # merge change 3
 # pull request 1
 # pull request 2
->>>>>>> pull request
->>>>>>> pull request
+# pull request 2
