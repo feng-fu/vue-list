@@ -18,13 +18,3 @@
 
 # rebase 1
 # rebase 2
-=======
-# merge change 1
-# merge change 2
-# merge change 3
-# pull request 1
-<<<<<<< HEAD
->>>>>>> pull request
-=======
-# pull request 2
->>>>>>> pull request 2
