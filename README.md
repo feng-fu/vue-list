@@ -9,7 +9,6 @@
 # change4
 # change5
 
-<<<<<<< HEAD
 ##　ｔｒｙ　ａｇａｉｎ
 
 ## try again
